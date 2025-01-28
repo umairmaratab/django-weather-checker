@@ -6,7 +6,7 @@
 
 ## App Interface:
 
-Image here
+![alt frontend](https://github.com/umairmaratab/django-weather-checker/blob/main/extras/frontend.png)
 
 ### Project Setup:
 - Clone the repository
